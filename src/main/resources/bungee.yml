@@ -1,0 +1,3 @@
+name: betakey
+version: '${project.version}'
+main: com.luan.betakey.BetaKey
